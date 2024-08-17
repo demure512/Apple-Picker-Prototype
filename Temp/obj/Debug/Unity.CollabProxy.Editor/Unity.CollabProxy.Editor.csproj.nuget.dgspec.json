@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.CollabProxy.Editor.csproj": {}
+  },
+  "projects": {
+    "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.CollabProxy.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.CollabProxy.Editor.csproj",
+        "projectName": "Unity.CollabProxy.Editor",
+        "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.CollabProxy.Editor.csproj",
+        "packagesPath": "C:\\Users\\YJ\\.nuget\\packages\\",
+        "outputPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Temp\\obj\\Debug\\Unity.CollabProxy.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Visual Studio 2022 shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.PlasticSCM.Editor.csproj": {
+                "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.PlasticSCM.Editor.csproj"
+              },
+              "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.PlasticSCM.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.PlasticSCM.Editor.csproj",
+        "projectName": "Unity.PlasticSCM.Editor",
+        "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Unity.PlasticSCM.Editor.csproj",
+        "packagesPath": "C:\\Users\\YJ\\.nuget\\packages\\",
+        "outputPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Temp\\obj\\Debug\\Unity.PlasticSCM.Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Visual Studio 2022 shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\YJ\\.nuget\\packages\\",
+        "outputPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Visual Studio 2022 shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\YJ\\.nuget\\packages\\",
+        "outputPath": "D:\\1\\Unity\\3D\\Apple Picker Prototype\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Visual Studio 2022 shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

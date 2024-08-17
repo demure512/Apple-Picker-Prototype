@@ -1,0 +1,4 @@
+repository "Apple Picker Prototype@demure@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
