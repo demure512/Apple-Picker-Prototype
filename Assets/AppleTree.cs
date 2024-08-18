@@ -18,7 +18,7 @@ public class AppleTree : MonoBehaviour
     //drop apples
     void Start()
     {
-
+      
     }
 
     //dirction and movement
@@ -31,11 +31,13 @@ public class AppleTree : MonoBehaviour
 
         if (pos.x < -leftAndRightEdge)
         {
-            speed = Mathf.Abs(speed); //turn right
+            //turn right
+            speed = Mathf.Abs(speed); 
         }
         else if (pos.x > leftAndRightEdge)
         {
-            speed = -Mathf.Abs(speed); //turn left
+            speed = -Mathf.Abs(speed); 
+            //turn left
         }
     }
 
